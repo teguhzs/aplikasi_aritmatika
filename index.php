@@ -23,7 +23,6 @@
            <option value="kurang"> - </option>
            <option value="bagi"> / </option>
            <option value="kali"> * </option>
-           <option value="persen"> % </option>
           </select>
           <input type="text" name="angka2" size="5">
           <input type="submit" name="hitung" value="hitung">
